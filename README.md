@@ -17,3 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 ```
+# Auto inject code into js file
+you will need this shell after Slack update ...
+- MacOS:
+[AutoInjectCode.sh](AutoInjectCode.sh)
